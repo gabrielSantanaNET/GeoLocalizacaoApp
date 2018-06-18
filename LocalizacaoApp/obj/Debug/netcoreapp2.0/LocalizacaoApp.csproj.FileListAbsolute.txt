@@ -1,0 +1,11 @@
+C:\Projetos\GoogleMaps\LocalizacaoApp\LocalizacaoApp\bin\Debug\netcoreapp2.0\LocalizacaoApp.deps.json
+C:\Projetos\GoogleMaps\LocalizacaoApp\LocalizacaoApp\bin\Debug\netcoreapp2.0\LocalizacaoApp.runtimeconfig.json
+C:\Projetos\GoogleMaps\LocalizacaoApp\LocalizacaoApp\bin\Debug\netcoreapp2.0\LocalizacaoApp.runtimeconfig.dev.json
+C:\Projetos\GoogleMaps\LocalizacaoApp\LocalizacaoApp\bin\Debug\netcoreapp2.0\LocalizacaoApp.dll
+C:\Projetos\GoogleMaps\LocalizacaoApp\LocalizacaoApp\bin\Debug\netcoreapp2.0\LocalizacaoApp.pdb
+C:\Projetos\GoogleMaps\LocalizacaoApp\LocalizacaoApp\obj\Debug\netcoreapp2.0\LocalizacaoApp.csprojAssemblyReference.cache
+C:\Projetos\GoogleMaps\LocalizacaoApp\LocalizacaoApp\obj\Debug\netcoreapp2.0\LocalizacaoApp.csproj.CoreCompileInputs.cache
+C:\Projetos\GoogleMaps\LocalizacaoApp\LocalizacaoApp\obj\Debug\netcoreapp2.0\LocalizacaoApp.AssemblyInfoInputs.cache
+C:\Projetos\GoogleMaps\LocalizacaoApp\LocalizacaoApp\obj\Debug\netcoreapp2.0\LocalizacaoApp.AssemblyInfo.cs
+C:\Projetos\GoogleMaps\LocalizacaoApp\LocalizacaoApp\obj\Debug\netcoreapp2.0\LocalizacaoApp.dll
+C:\Projetos\GoogleMaps\LocalizacaoApp\LocalizacaoApp\obj\Debug\netcoreapp2.0\LocalizacaoApp.pdb

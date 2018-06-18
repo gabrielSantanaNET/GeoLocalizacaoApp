@@ -1,0 +1,52 @@
+﻿@page
+
+<div id="divTitleBody" style="text-align:center;">
+    <h3>-- GABRIEL SANTANA --</h3>
+</div>
+<hr />
+
+<div id="divForm" style="width: 40%; float:left; clear:both;">
+
+    <fieldset style="width:400px;">
+        <legend>Criar Localização</legend>
+
+        <div id="divErros" style="width: 420px;"></div>
+        <input type="button" id="btnObterToken" style="display:none;" value="Clique aqui para validar um Token de Acesso a API" class="btn-danger btn-sm" />
+
+        <label for="amigo">Nome: </label>
+        <input type="text" id="amigo" class="form-control input-sm" style="width:250px;" placeholder="Ex: Gabriel Santana" />
+        <br />
+
+        <label for="latitude">Latitude: </label>
+        <input type="text" id="latitude" class="form-control input-sm" style="width:250px;" placeholder="Ex: -20.7233106" />
+        <br />
+
+        <label for="longitude">Longitude: </label>
+        <input type="text" id="longitude" class="form-control input-sm" style="width:250px;" placeholder="Ex: -46.6146444" />
+        <br />
+
+        <input type="hidden" id="endereco" />
+
+        <input type="button" id="btnSalvar" value="Salvar" class="btn btn-primary" />
+        <input type="reset" id="btnLimpar" value="Limpar" class="btn" />
+
+    </fieldset>
+
+</div>
+
+<div id="divGoogleMap" style="width: 60%; height: 300px"></div>
+<br />
+
+<div id="divListaAmigos" style="width: 60%; float:right;">
+
+    <table id="tableLocalizacoes" class="table table-responsive table-hover">
+        <tr>
+            <th align="center"></th>
+            <th align="center">Nome</th>
+            <th align="center">Latitude</th>
+            <th align="center">Longitude</th>
+        </tr>
+    </table>
+</div>
+
+
