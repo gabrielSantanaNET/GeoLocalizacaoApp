@@ -18,7 +18,7 @@ Aplicação que verifica a Distancia entre uma pessoa e seus amigos próximos co
 
 - Instalar o suporte IIS para rodar aplicaçoes ASP.NET CORE (pode ser obtido através do VS Installer).
 - Instalar o SQL SERVER EXPRESS EDITION.
-- Rodar os scrips de criação do DataBase e Tabelas (Scripts/SQL).
+- Rodar os scrips de criação do DataBase e Tabelas (/Scripts.rar).
 
 # Conclusão
 
