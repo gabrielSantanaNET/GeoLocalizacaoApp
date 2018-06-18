@@ -4,21 +4,21 @@ Aplicação que verifica a Distancia entre uma pessoa e seus amigos próximos co
 
 # Frameworks e Tecnologias utilizadas
 
-- ASP.NET CORE 2.0 WEB APP
-- ASP.NET CORE 2.0 WEB API
-- AUTORIZAÇÃO TOKEN VIA JWT (BEARER)
-- ENTITY FRAMEWORK CORE 6.0
-- DEPENDENCY INJECTION
-- DDD (DOMAIN DRIVEN DESIGN)
-- INTEGRAÇÃO GOOGLE MAPS API
-- SQL SERVER EXPRESS
-- BOOTSTRAP
+- ASP.NET Core 2.0 Web App
+- ASP.NET Core 2.0 Web Api
+- JWT Authorization Web Tokens (Bearer)
+- Entity Framework Core 6.0
+- Dependency Injection
+- DDD (Domain Driven Design)
+- Integração Google Maps API
+- SQL Server Express 2017
+- Bootstrap
 
 # Pré Requisitos para rodar o App
 
-- Necessário instalar o suporte IIS para rodar aplicaçoes ASP.NET CORE (pode ser obtido através do VS Installer).
-- Necessário instalação do SQL SERVER EXPRESS EDITION.
-- Necessário rodar os scrips de criação do DataBase e Tabelas do SQL (/LocalizacaoWebApi/Scripts/SQL).
+- Instalar o suporte IIS para rodar aplicaçoes ASP.NET CORE (pode ser obtido através do VS Installer).
+- Instalar o SQL SERVER EXPRESS EDITION.
+- Rodar os scrips de criação do DataBase e Tabelas (Scripts/SQL).
 
 # Conclusão
 
