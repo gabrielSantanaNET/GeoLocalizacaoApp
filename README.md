@@ -16,7 +16,7 @@ Ao clicar na marcação do mapa é possível visualizar o endereço da localiza�
 Após criada as localizações, o google maps marcará todas as localizações e o botão "Verificar Amigos Próximos" te permitirá visualizar através de um cálculo (Angulo x Raio Equador) quais os 3 amigos mais próximos da referencia clicada.
 
 Observações:
-- A Aplicação é integração com Google Maps API.
+- A Aplicação é integrada com Google Maps API.
 - A Arquitetura é baseada em DDD respeitando as responsabilidades de cada camada, interfaces e respositórios.
 - Para construção da aplicação foi utilizado o template (scaffold) padrão do ASP.NET Core Web App.
 - Todos os cálculos são armazenados na tabela CalculoHistoricoLog.
