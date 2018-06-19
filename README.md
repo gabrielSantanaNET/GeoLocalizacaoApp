@@ -34,6 +34,7 @@ Observações:
 - DDD (Domain Driven Design)
 - Integração Google Maps API
 - SQL Server Express 2017
+- HTML 5
 - Bootstrap
 
 # Pré Requisitos para rodar o App
@@ -45,3 +46,6 @@ Observações:
 # Conclusão
 
 Este App foi criado para fins de estudo mas serve também como base de programação para desenvolvedores.
+O App e o Banco de Dados estão hospedados em Cloud utilizando o serviço da Microsoft Azure. 
+Segue o link da aplicação: http://localizacaoappcore.azurewebsites.net/
+
