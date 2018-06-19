@@ -47,5 +47,7 @@ Observações:
 
 Este App foi criado para fins de estudo mas serve também como base de programação para desenvolvedores.
 O App e o Banco de Dados estão hospedados em Cloud utilizando o serviço da Microsoft Azure. 
-Segue o link da aplicação: http://localizacaoappcore.azurewebsites.net/
+
+Segue o link da aplicação: 
+<a href="http://localizacaoappcore.azurewebsites.net/" target="_blank">http://localizacaoappcore.azurewebsites.net/</a>
 
